@@ -1,0 +1,22 @@
+{
+  "name": "websocket-rails",
+  "version": "0.7.0",
+  "authors": [
+    "Dan Knox <dknox@threedotloft.com>"
+  ],
+  "description": "Standalone WebSocket Rails JS client",
+  "main": "websocket-rails.js",
+  "keywords": [
+    "websocket",
+    "rails"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/websocket-rails/websocket-rails",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
